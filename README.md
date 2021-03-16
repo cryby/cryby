@@ -34,7 +34,7 @@
 - 👯 I’m looking to collaborate on [𝙘𝙧𝙮𝘽𝙮#4380](https://discord.com).
 - 🤔 I’m looking for help with Spigot coding.
 - 💬 Ask me about Java or any tech related stuff.
-- 📫 How to reach me: [Twitter - @cryby](https://twitter.com/imthepk) , [Youtube - @cryby](https://youtube.com/mtechviral)
+- 📫 How to reach me: [Twitter - @cryby](https://twitter.com/cryby) , [Youtube - @cryby](https://youtube.com/cryby)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
