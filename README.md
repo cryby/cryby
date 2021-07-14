@@ -30,9 +30,9 @@
 
 
 - 🔭 I’m currently working on [OverLand](https://overland.cz/).
-- 🌱 I’m currently learning more about SpigotAPI.
+- 🌱 I’m currently learning more about SourceModAPI.
 - 👯 I’m looking to collaborate on [𝙘𝙧𝙮𝘽𝙮#4380](https://discord.com).
-- 🤔 I’m looking for help with Spigot coding.
+- 🤔 I’m looking for help with Spigot and SourcePawn coding.
 - 💬 Ask me about Java or any tech related stuff.
 - 📫 How to reach me: [Twitter - @cryby](https://twitter.com/cryby) , [Youtube - @cryby](https://youtube.com/cryby)
 - 😄 Pronouns: He/His
