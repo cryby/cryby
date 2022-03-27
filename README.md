@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently working on Revolutionary fitness app made in flutter - [FitSpace] (https://github.com/cryby/fitspace).
+- 🔭 I’m currently working on Revolutionary fitness app made in flutter - [FitSpace](https://github.com/cryby/fitspace).
 - 🌱 I’m currently learning more about Win32 API and C++.
 - 👯 I’m looking to collaborate on [𝙘𝙧𝙮𝘽𝙮#4380](https://discord.com).
 - 💬 Ask me about Java/C++ or any tech related stuff.
