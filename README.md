@@ -29,17 +29,11 @@
 
 
 
-- 🔭 I’m currently working on [Qwerty.xyz](https://qwertycheat.site/forum/).
-- 🌱 I’m currently learning more about SourceModAPI.
+- 🔭 I’m currently working on [FitSpace] (https://github.com/cryby/fitspace) (Revolutionary fitness app made in flutter).
+- 🌱 I’m currently learning more about Win32 API and C++.
 - 👯 I’m looking to collaborate on [𝙘𝙧𝙮𝘽𝙮#4380](https://discord.com).
-- 🤔 I’m looking for help with Spigot and SourcePawn coding.
-- 💬 Ask me about Java or any tech related stuff.
-- 📫 How to reach me: [Twitter - @cryby](https://twitter.com/cryby) , [Youtube - @cryby](https://youtube.com/cryby)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- 💬 Ask me about Java/C++ or any tech related stuff.
 
-[![Twitter: cryby](https://img.shields.io/twitter/follow/cryby?style=social)](https://twitter.com/cryby)
-[![Linkedin: cryby](https://img.shields.io/badge/-cryby-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cryby/)](https://www.linkedin.com/in/imthepk/)
 [![GitHub cryby](https://img.shields.io/github/followers/cryby?label=follow&style=social)](https://github.com/cryby)
 [![website](https://img.shields.io/badge/PortfolioWebsite-cryby.dev-2648ff?style=flat-square&logo=google-chrome)](https://cryby.dev/)
 
@@ -60,7 +54,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cryby&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
 <a href="https://github.com/cryby/midecon-private">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cryby&repo=midecon-private&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cryby&repo=fitspace&theme=light" />
 </a>
 
 <div align="center">
