@@ -2,34 +2,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cryby&label=Views&color=blue&style=plastic" alt="cryby" /> </p>
 
-<a href="https://twitter.com/cryby">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/cryby">
-  <img align="left" alt="cryBy's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 <a href="https://github.com/cryby">
   <img align="left" alt="cryBy's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/cryby">
-  <img align="left" alt="cryBy's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/cryby/">
-  <img align="left" alt="cryBy's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/cryby/">
-  <img align="left" alt="cryBy's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/cryby/">
-  <img align="left" alt="cryBy's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-
 <br/>
 <br/>
 
 
 
-- 🔭 I’m currently working on [FitSpace] (https://github.com/cryby/fitspace) (Revolutionary fitness app made in flutter).
+- 🔭 I’m currently working on Revolutionary fitness app made in flutter - [FitSpace] (https://github.com/cryby/fitspace).
 - 🌱 I’m currently learning more about Win32 API and C++.
 - 👯 I’m looking to collaborate on [𝙘𝙧𝙮𝘽𝙮#4380](https://discord.com).
 - 💬 Ask me about Java/C++ or any tech related stuff.
