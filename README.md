@@ -2,12 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cryby&label=Views&color=blue&style=plastic" alt="cryby" /> </p>
 
-<a href="https://github.com/cryby">
-  <img align="left" alt="cryBy's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-[![GitHub cryby](https://img.shields.io/github/followers/cryby?label=follow&style=social)](https://github.com/cryby)
-[![website](https://img.shields.io/badge/PortfolioWebsite-cryby.dev-2648ff?style=flat-square&logo=google-chrome)](https://cryby.dev/)
-
 
 **Languages and Tools:**  
 
