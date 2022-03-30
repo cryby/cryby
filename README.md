@@ -7,14 +7,6 @@
 </a>
 <br/>
 <br/>
-
-
-
-- 🔭 I’m currently working on a Revolutionary fitness app made in flutter - [FitSpace](https://github.com/cryby/fitspace).
-- 🌱 I’m currently learning more about Win32 API and C++.
-- 👯 I’m looking to collaborate on [𝙘𝙧𝙮𝘽𝙮#4380](https://discord.com).
-- 💬 Ask me about Java/C++ or any tech related stuff.
-
 [![GitHub cryby](https://img.shields.io/github/followers/cryby?label=follow&style=social)](https://github.com/cryby)
 [![website](https://img.shields.io/badge/PortfolioWebsite-cryby.dev-2648ff?style=flat-square&logo=google-chrome)](https://cryby.dev/)
 
