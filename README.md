@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Currently building <h2 align="center"><a href="https://sajko.sk">sajko.sk</a></h2></p>
+<p align="center">Currently building <h2 align="center"><a href="https://sajko.sk" target="_blank">sajko.sk</a></h2></p>
 
 ###
 
